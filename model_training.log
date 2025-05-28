@@ -1,0 +1,20 @@
+2025-05-28 17:22:40,239 - INFO - ModelTrainer initialized successfully
+2025-05-28 17:22:40,240 - INFO - Loading data from house_data.csv
+2025-05-28 17:22:40,275 - INFO - Preprocessing data
+2025-05-28 17:22:40,307 - INFO - Data split successfully
+2025-05-28 17:22:40,308 - INFO - Training xgboost model
+2025-05-28 17:22:40,420 - INFO - Model training completed
+2025-05-28 17:22:40,736 - INFO - 
+Model Evaluation Metrics:
+2025-05-28 17:22:40,737 - INFO - Training R² Score: 0.9656
+2025-05-28 17:22:40,741 - INFO - Testing R² Score: 0.8591
+2025-05-28 17:22:40,741 - INFO - Root Mean Squared Error: $32,874.29
+2025-05-28 17:22:40,741 - INFO - R² Score: 0.8591
+2025-05-28 17:22:40,742 - INFO - Cross-validation scores: [0.84576142 0.74680197 0.81904769 0.8236323  0.83921081]
+2025-05-28 17:22:40,742 - INFO - Average CV Score: 0.8149 (+/- 0.0708)
+2025-05-28 17:22:40,750 - INFO - Model and preprocessor saved to house_price_model.joblib
+2025-05-28 17:22:40,750 - INFO - Model training and saving completed successfully
+2025-05-28 17:23:42,975 - INFO - ModelTrainer initialized successfully
+2025-05-28 17:23:42,976 - INFO - Model loaded successfully from house_price_model.joblib
+2025-05-28 17:25:10,992 - INFO - ModelTrainer initialized successfully
+2025-05-28 17:25:10,993 - INFO - Model loaded successfully from house_price_model.joblib
